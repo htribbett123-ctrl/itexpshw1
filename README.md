@@ -1,4 +1,4 @@
-** Version Control Workflow Demonstration **
+## ** Version Control Workflow Demonstration **
 
 This repository demonstrates foundational Git and GitHub version control practices including:
 
@@ -14,7 +14,7 @@ Remote push to GitHub
 
 CLI-based Git operations
 
-Workflow Implemented
+## **Workflow Implemented**
 
 Initialize repository
 
@@ -30,7 +30,7 @@ Merge branch into main
 
 Push updates to remote repository
 
-Tools Used
+## **Tools Used**
 
 Git CLI
 
