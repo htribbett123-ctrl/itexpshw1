@@ -1,4 +1,4 @@
-Version Control Workflow Demonstration
+** Version Control Workflow Demonstration **
 
 This repository demonstrates foundational Git and GitHub version control practices including:
 
