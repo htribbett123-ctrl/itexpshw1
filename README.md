@@ -1,49 +1,33 @@
-# ITEXPSHW1 GitHub Lab
+# ITEXPSHW1 – GitHub Repository Management Lab
 
-This project demonstrates the process of creating and managing a GitHub repository.
+This lab demonstrates the process of creating and managing a GitHub repository using Git commands.  
+The exercise includes repository creation, cloning, file management, committing changes, branching, and merging.
 
-## Documentation
-Detailed documentation of the repository creation process can be found here:
+---
 
-📄 ITEXPSHW1_Lab_Process.docx
+# Skills Demonstrated
 
-## **Version Control Workflow Demonstration**
+- Git
+- GitHub
+- Version Control
+- Command Line
+- Branching & Merging
+- Repository Management
 
-This repository demonstrates foundational Git and GitHub version control practices including:
+---
 
-Repository creation and cloning
+# Step 1 – Create a Public GitHub Repository
 
-Local file staging and commit management
+A new public repository was created on GitHub to host the project files and track version history.
 
-Feature branch creation and switching
+Repository URL:
+https://github.com/htribbett123-ctrl/itexpshw1
 
-Branch merging into main
+---
 
-Remote push to GitHub
+# Step 2 – Clone Remote Repository
 
-CLI-based Git operations
+The repository was cloned from GitHub to the local development environment.
 
-## **Workflow Implemented**
-
-Initialize repository
-
-Clone locally
-
-Add and stage files
-
-Commit changes with structured message
-
-Create feature branch
-
-Merge branch into main
-
-Push updates to remote repository
-
-## **Tools Used**
-
-Git CLI
-
-GitHub
-
-Git Bash (Windows)
-
+```bash
+git clone https://github.com/htribbett123-ctrl/itexpshw1.git
