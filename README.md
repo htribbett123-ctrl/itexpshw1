@@ -38,14 +38,6 @@ main
                   ●── merge into main
                   
 
-## What I Learned
-- How to resolve Git Bash permission issues by navigating to the correct directory.
-- How to stage and commit files properly.
-- How to create and switch between branches.
-- How to merge a feature branch into the main branch.
-- How to push updates to a remote GitHub repository.
-        
-
 
 ## 🔧 1. Created and Configured Public GitHub Repository
 • 	Set up a new public repository on GitHub.
@@ -100,4 +92,10 @@ main
 ## git push
 
 
+## What I Learned
+- How to resolve Git Bash permission issues by navigating to the correct directory.
+- How to stage and commit files properly.
+- How to create and switch between branches.
+- How to merge a feature branch into the main branch.
+- How to push updates to a remote GitHub repository.
 
