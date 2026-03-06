@@ -4,13 +4,15 @@
 https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf
 
 # Git Workflow Lab (ITEXPS Homework 1)
-
 ![Git Workflow](https://img.shields.io/badge/Git-Workflow-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![ITEXPS](https://img.shields.io/badge/ITEXPS-Lab%201-purple)
 
+## Overview
+This repository demonstrates a complete Git workflow including cloning, staging, committing, branching, merging, and pushing changes to GitHub.  
+It also includes a full PDF lab report with screenshots and documentation.
 
-This repository demonstrates a complete Git workflow including cloning, staging, committing, branching, merging, and pushing changes to GitHub.
+
 
 ## Table of Contents
 - Overview
@@ -62,39 +64,39 @@ main
 ## 📄 3. Added Initial Files
 • 	Created two text files:  and , each containing two lines of text.
 • 	Staged the files:
-## git add .
+## '''git add .'''
 
 ## 📝 4. Committed Initial Structure
 • 	Committed staged files with the message:
-## git commit -m "Initial Structure"
+## ''' git commit -m "Initial Structure"  '''
 
 ## 🚀 5. Pushed Changes to GitHub
 • 	Pushed the initial commit to the remote repository:
-## git push
+## '''git push'''
 
 
 ## 🌿 6. Implemented Feature Branch Workflow
 • 	Verified I was on the  branch.
 • 	Created a new feature branch named :
-## git branch f1
-## git switch f1
+## '''git branch f1'''
+## '''git switch f1'''
 
 ## ➕ 7. Added New File on Feature Branch
 • 	Created a new file  with two lines of text.
 • 	Staged and committed the file:
-## git add 3.txt
-## git commit -m "Add 3.txt"
+## '''git add 3.txt'''
+## ''' git commit -m "Add 3.txt"  '''
 
 # 🔄 8. Merged Feature Branch into Main
 • 	Switched back to the main branch:
-## git switch main
+## ''' git switch main '''
 
 • 	Merged the feature branch:
-## git merge f1
+## ''' git merge f1 '''
 
 ## ⬆️ 9. Pushed Final Changes
 • 	Pushed the merged updates (including ) to GitHub:
-## git push
+## ''' git push '''
 
 
 ## What I Learned
