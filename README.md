@@ -53,8 +53,8 @@ main
 • 	Cloned the remote repository using Git Bash.
 • 	Encountered a directory permission issue because the working directory was  (not writable).
 • 	Resolved the issue by navigating to the home directory:
-## cd ~
-## pwd   # Verified I was in my home directory
+##  '''cd ~'''
+## '''pwd'''   # Verified I was in my home directory
 
 
 • 	Navigated into the project folder to continue work.
