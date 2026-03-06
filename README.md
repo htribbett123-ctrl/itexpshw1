@@ -51,7 +51,7 @@ https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.p
 • 	Merged the feature branch:
 ## git merge f1
 
-⬆️ 9. Pushed Final Changes
+## ⬆️ 9. Pushed Final Changes
 • 	Pushed the merged updates (including ) to GitHub:
 ## git push
 
