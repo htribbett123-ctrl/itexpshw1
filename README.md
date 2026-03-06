@@ -5,6 +5,11 @@ https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.p
 
 # Git Workflow Lab (ITEXPS Homework 1)
 
+![Git Workflow](https://img.shields.io/badge/Git-Workflow-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![ITEXPS](https://img.shields.io/badge/ITEXPS-Lab%201-purple)
+
+
 This repository demonstrates a complete Git workflow including cloning, staging, committing, branching, merging, and pushing changes to GitHub.
 
 ## Table of Contents
