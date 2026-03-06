@@ -32,4 +32,4 @@ git clone https://github.com/htribbett123-ctrl/itexpshw1.git
 Step 3 – Lab Report PDF
 
 ## Lab Report PDF
-The full lab report is available here: [View Lab Report PDF](ITEXPSHW1_Lab_Process.pdf)
+The full lab report is available here: [[View Lab Report PDF](ITEXPSHW1_Lab_Process.pdf)](https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf)
