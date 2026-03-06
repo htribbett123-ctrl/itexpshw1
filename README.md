@@ -1,5 +1,51 @@
 ## ✅ README Section: Git Workflow Lab Steps
+- 
+## The full lab report, including screenshots and documentation, is available here:
+https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf
 
+# Git Workflow Lab (ITEXPS Homework 1)
+
+This repository demonstrates a complete Git workflow including cloning, staging, committing, branching, merging, and pushing changes to GitHub.
+
+## Table of Contents
+- Overview
+- Steps Completed
+- Git Commands Used
+- Branching Workflow
+- What I Learned
+
+
+## Git Commands Used
+- `git clone`
+- `git add`
+- `git commit`
+- `git push`
+- `git branch`
+- `git switch`
+- `git merge`
+
+## Branching Workflow
+
+main
+│
+└─── f1 (feature branch)
+        └── Added 3.txt → merged back into main
+
+        main ──●──────────────●───────────●
+         \ 
+          ●──●──●  f1  (feature work)
+                 \ 
+                  ●── merge into main
+                  
+
+## What I Learned
+- How to resolve Git Bash permission issues by navigating to the correct directory.
+- How to stage and commit files properly.
+- How to create and switch between branches.
+- How to merge a feature branch into the main branch.
+- How to push updates to a remote GitHub repository.
+        
+ 
 ## The full lab report, including screenshots and documentation, is available here:
 https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf
 
