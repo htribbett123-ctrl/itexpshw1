@@ -1,5 +1,5 @@
 ## ✅ README Section: Git Workflow Lab Steps
-- 
+ 
 ## The full lab report, including screenshots and documentation, is available here:
 https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf
 
@@ -45,11 +45,9 @@ main
 - How to merge a feature branch into the main branch.
 - How to push updates to a remote GitHub repository.
         
- 
-## The full lab report, including screenshots and documentation, is available here:
-https://github.com/htribbett123-ctrl/itexpshw1/blob/main/ITEXPSHW1_Lab_Process.pdf
 
-🔧 1. Created and Configured Public GitHub Repository
+
+## 🔧 1. Created and Configured Public GitHub Repository
 • 	Set up a new public repository on GitHub.
 • 	Prepared the repo for local development.
 
