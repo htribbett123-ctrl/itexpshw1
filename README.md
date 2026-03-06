@@ -25,3 +25,11 @@ The repository was cloned from GitHub to the local development environment:
 
 ```bash
 git clone https://github.com/htribbett123-ctrl/itexpshw1.git
+
+
+---
+
+Step 3 – Lab Report PDF
+
+The full lab report, including screenshots and documentation, is available here:
+[View Lab Report PDF](ITEXPSHW1_Lab_Process.pdf)
