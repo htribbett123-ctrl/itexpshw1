@@ -1,3 +1,12 @@
+# ITEXPSHW1 GitHub Lab
+
+This project demonstrates the process of creating and managing a GitHub repository.
+
+## Documentation
+Detailed documentation of the repository creation process can be found here:
+
+📄 ITEXPSHW1_Lab_Process.docx
+
 ## **Version Control Workflow Demonstration**
 
 This repository demonstrates foundational Git and GitHub version control practices including:
